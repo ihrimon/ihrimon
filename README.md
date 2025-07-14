@@ -17,13 +17,15 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,django,php,laravel,html,css,react,nextjs,nodejs,express,mongodb,mongoose,prisma,mysql,tailwind,figma,github,vscode,git,postman,jest" />
 </p>
+
 
 ---
 
 ### 📈 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ihrimon&show_icons=true&locale=en" alt="ihrimon" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihrimon" alt="ihrimon" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihrimon&show_icons=true&locale=en" alt="ihrimon" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihrimon" alt="ihrimon" width="45%" />
 </p>
+
