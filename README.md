@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Motto-Code%20%7C%20Learn%20%7C%20Repeat-orange?style=flat-square" alt="Motto" />
   <img src="https://img.shields.io/badge/Stack-Full%20Stack-blue?style=flat-square&logo=webcomponents&logoColor=white" alt="Stack" />
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 <!-- About Me -->
@@ -19,14 +18,13 @@
   <li>🔭 Currently building: <b>MediGo – A Medical E-commerce Platform</b></li>
   <li>💻 Specialize in Full Stack development with <b>MongoDB, Express.js, React, Node.js, Next.js</b></li>
   <li>🧰 Experienced with <b>TypeScript, Prisma, Tailwind CSS, Docker, Git</b> and more</li>
-  <li>📚 Continuously learning <b>Data Structures & Algorithms, System Design, Django, Laravel</b></li>
-  <li>⚙️ Exploring DevOps tools like <b>Docker, Nginx</b> and deployment best practices</li>
+  <li>📚 Continuously learning <b>Data Structures & Algorithms, System Design, Web Optimization, Problem Solving</b></li>
 </ul>
 
 <!-- Technologies I Work With -->
 <h4>🧠 You can talk to me about</h4>
 
-<p><b>💻 Frontend:</b> React.js · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind</p>
+<p><b>💻 Frontend:</b> React.js · Next.js · JavaScript · TypeScript · Tanstack ·  HTML · CSS · Tailwind</p>
 
 <p><b>🛠️ Backend: </b>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" style="vertical-align:middle;"/>  
