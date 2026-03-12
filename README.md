@@ -3,8 +3,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338ec,50:6366f1,100:6366f1&height=170&section=header&text=Imam%20Hassan%20Rimon&fontSize=44&fontAlignY=30&desc=Full%20Stack%20Web%20and%20App%20Developer%20%7C%20Open%20Source%20Explorer&descAlignY=54&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED GREETING TEXT                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -27,7 +25,7 @@
 <!--         4 Cards: Framework | Testing | QA | CI/CD              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## What I Do
+<h2>What I Do</h2>
 
 <table>
 <tr>
@@ -77,7 +75,7 @@
 <!--    Languages | Frontend | Backend | Mobile | DB | Tools        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Technical Skills
+<h2>Technical Skills</h2>
 
 | Category              | Skills                                                                             |
 | :-------------------- | :--------------------------------------------------------------------------------- |
@@ -93,7 +91,7 @@
 <!--              Research projects with YouTube links              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Blogs and Case Study Insights
+<h2>Blogs and Case Study Insights</h2>
 
 | Project                                                                                                                        | Timeline | Tools                | Project Description                                                                                                           | Link                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -105,7 +103,7 @@
 <!--           Featured projects with tech stack and links          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Projects Insights
+<h2>Projects Insights</h2>
 
 | Project                                                                                                                                                      | Timeline | Tools                                             | Project Description                                                                                                                                                                                               | Link                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -116,7 +114,7 @@
 <!--       Stats Card | Streak Card | Top Languages Card            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## GitHub Stats
+<h2>Github Stats</h2>
 
 <div align="center">
 
@@ -148,7 +146,7 @@
 <!--          Typing CTA Animation + Social Media Badges            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Connect with Me
+<h2>Connect with Me</h2>
 
 <!-- Call To Action Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=20&pause=1200&color=58A6FF&center=false&vCenter=true&width=800&lines=💼+Available+for+Freelance+%26+Full-Time+Roles;🚀+Let's+Build+Scalable+Web+%26+Mobile+Apps;🌐+Open+to+Remote+Collaboration+Worldwide;📬+Drop+a+Message+—+Let's+Talk+Tech!;⚡+Turning+Ideas+into+Reality,+One+Commit+at+a+Time" alt="Typing Animation" />
@@ -163,3 +161,9 @@
   <a href="https://x.com/ih_rimon147" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://dev.to/ihrimon" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 </p>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338ec,50:6366f1,100:6366f1&height=130&section=footer&text=Every%20great%20product%20starts%20with%20a%20single%20commit&fontSize=22&fontColor=ffffff&desc=©%202026%20Imam%20Hassan%20Rimon%20•%20All%20Rights%20Reserved&descSize=12&descFontColor=a5b4fc&descAlignY=84&fontAlignY=64&animation=fadeIn" width="100%"/>
+
+</div>
