@@ -25,10 +25,10 @@ continuous learning, and contributing to dynamic, fast-paced teams.
 <h2>What I Do</h2>
 
 <ul>
-  <li>🔭 Currently building: <b>MediGo – A Medical E-commerce Platform</b></li>
-  <li>💻 Specialize in Full Stack development with <b>MongoDB, Express.js, React, Node.js, Next.js</b></li>
-  <li>🧰 Experienced with <b>TypeScript, Prisma, Tailwind CSS, Docker, Git</b> and more</li>
-  <li>📚 Continuously learning <b>Data Structures & Algorithms, System Design, Django, Laravel</b></li>
+  <li>🔭 Currently building: <b>Talkify – A Real Time chat app</b></li>
+  <li>💻 Specialize in Full Stack development with <b>MongoDB, Postgresql, Express.js, React, Node.js, Next.js</b></li>
+  <li>🧰 Experienced with <b>TypeScript, Zod, Prisma, Tailwind CSS, Docker, Git</b> and more</li>
+  <li>📚 Continuously learning <b>Data Structures & Algorithms, System Design, Design Patterns, Laravel</b></li>
   <li>⚙️ Exploring DevOps tools like <b>Docker, Nginx</b> and deployment best practices</li>
 </ul>
 
@@ -83,8 +83,8 @@ continuous learning, and contributing to dynamic, fast-paced teams.
 
 | Category              | Skills                                                                             |
 | :-------------------- | :--------------------------------------------------------------------------------- |
-| **Languages**         | C, C++, Java, Python, JavaScript, TypeScript, Kotlin                               |
-| **Frontend**          | React.js, Next.js, HTML, CSS, Tailwind CSS, GSAP, Framer Motion, Responsive Design |
+| **Languages**         | C, C++, JavaScript, PHP, TypeScript, Kotlin                                        |
+| **Frontend**          | React.js, Next.js, HTML, CSS, Tailwind CSS, Framer Motion, Responsive Design       |
 | **Backend**           | Node.js, Express.js, REST APIs, Authentication & Security                          |
 | **Mobile**            | React Native, Kotlin, Android Development                                          |
 | **Databases**         | MySQL, PostgreSQL, MongoDB, Firebase, Supabase                                     |
