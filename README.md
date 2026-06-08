@@ -137,20 +137,20 @@ continuous learning, and contributing to dynamic, fast-paced teams.
 
 <!-- ═══════════════BLOGS & CASE STUDY INSIGHTS═══════════════ -->
 
-<h2>Blogs and Case Study Insights</h2>
+<!-- <h2>Blogs and Case Study Insights</h2>
 
 | Project                                                                                                                        | Timeline | Tools                | Project Description                                                                                                           | Link                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [BanglaFoodViT](https://github.com/shemanto27/BanglaFoodViT)                                                                   | 2025     | Pytorch              | Bangladeshi Food Classification using Vision Transformer. Built a Vision Transformer (ViT) from scratch using PyTorch         | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
-| [Credit Risk Modeling of Banking Data](https://github.com/shemanto27/Credit-Risk-Modeling-on-Bank-Data-using-Machine-Learning) | 2025     | ScikitLearn, XGBOOST | Develop a ML model that can accurately predict credit risk for loan applicants based on historical data and financial metrics | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [Credit Risk Modeling of Banking Data](https://github.com/shemanto27/Credit-Risk-Modeling-on-Bank-Data-using-Machine-Learning) | 2025     | ScikitLearn, XGBOOST | Develop a ML model that can accurately predict credit risk for loan applicants based on historical data and financial metrics | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) | -->
 
 <!-- ═══════════════PROJECT INSIGHTS═══════════════ -->
 
-<h2>Projects Insights</h2>
+<!-- <h2>Projects Insights</h2>
 
 | Project                                                                                                                                                      | Timeline | Tools                                             | Project Description                                                                                                                                                                                               | Link                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Full Stack University Classroom Management Project using PERN Stack](https://github.com/shemanto27/Full-Stack-Classroom-Management-System-Using-PERN-Stack) | Feb 2026 | PostgreSQL, Express.js, React.js, Node.js, Docker | University Classes management both for students and teachers, similar to Google Classroom with multi-role authentication. clasees creation, homework assign, test score publish, class invitation link generation | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [Full Stack University Classroom Management Project using PERN Stack](https://github.com/shemanto27/Full-Stack-Classroom-Management-System-Using-PERN-Stack) | Feb 2026 | PostgreSQL, Express.js, React.js, Node.js, Docker | University Classes management both for students and teachers, similar to Google Classroom with multi-role authentication. clasees creation, homework assign, test score publish, class invitation link generation | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) | -->
 
 <!-- ═══════════════GITHUB INSIGHTS═══════════════ -->
 
@@ -167,7 +167,7 @@ continuous learning, and contributing to dynamic, fast-paced teams.
 <h2>Connect with Me</h2>
 
 <!-- Call To Action Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=20&pause=1200&color=58A6FF&center=false&vCenter=true&width=800&lines=💼+Available+for+Freelance+%26+Full-Time+Roles;🚀+Let's+Build+Scalable+Web+%26+Mobile+Apps;🌐+Open+to+Remote+Collaboration+Worldwide;📬+Drop+a+Message+—+Let's+Talk+Tech!;⚡+Turning+Ideas+into+Reality,+One+Commit+at+a+Time" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2000&pause=700&color=58A6FF&center=false&vCenter=true&width=800&lines=💼+Available+for+Freelance+%26+Full-Time+Roles;🚀+Let's+Build+Scalable+Web+%26+Mobile+Apps;🌐+Open+to+Remote+Collaboration+Worldwide;📬+Drop+a+Message+—+Let's+Talk+Tech!;⚡+Turning+Ideas+into+Reality,+One+Commit+at+a+Time" alt="Typing Animation" />
 
 <!-- Social Media & Contact Badges -->
 <p align="left">
