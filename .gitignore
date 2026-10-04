@@ -1,0 +1,3 @@
+# Keep personal notes/drafts out of the profile repo — only README.md is published
+*.md
+!README.md

@@ -1,0 +1,52 @@
+# Refreshes the self-hosted GitHub Insights cards (assets/github-insights-*.svg) once a day.
+# The README serves these files from the repo, so the profile never waits on — or breaks
+# because of — the third-party card service. A failed or invalid download keeps the last good file.
+name: Refresh GitHub Insights
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily, 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-insights
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download insight cards
+        run: |
+          set -u
+          query="username=ihrimon&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false"
+          for theme in dark light; do
+            tmp="$(mktemp)"
+            if curl -sSf --retry 3 --retry-delay 10 --max-time 120 \
+                 "https://yourinsights.vercel.app/api/insight?${query}&theme=github_${theme}" -o "$tmp" \
+               && head -c 200 "$tmp" | grep -q "<svg" \
+               && [ "$(wc -c < "$tmp")" -gt 5000 ]; then
+              mv "$tmp" "assets/github-insights-${theme}.svg"
+              echo "Updated ${theme} card"
+            else
+              echo "::warning::Could not refresh the ${theme} card — keeping the previous file"
+              rm -f "$tmp"
+            fi
+          done
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-insights-dark.svg assets/github-insights-light.svg
+          git commit -m "chore: refresh GitHub Insights cards"
+          git push
