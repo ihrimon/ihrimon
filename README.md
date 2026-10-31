@@ -104,6 +104,7 @@ Facebook, Instagram and WhatsApp messages around the clock.
 
 🔭 **Currently building:** AI voice agents & workflow automation &nbsp;·&nbsp; 📚 **Learning:** AI agents, MCP and LLM evaluation, tracked in [ai-engineering-journey](https://github.com/ihrimon/ai-engineering-journey)
 
+
 <!-- ═══════════════ HOW I WORK ═══════════════ -->
 
 ## How I Build Software
@@ -114,19 +115,6 @@ Facebook, Instagram and WhatsApp messages around the clock.
 - **Design for failure:** Idempotent jobs, retries with backoff, crash-safe queues, real health checks and request-ID logs
 - **AI with guardrails:** Provider-agnostic LLMs, deterministic test stubs, structured outputs and human approval on customer actions
 
-<!-- ═══════════════GITHUB INSIGHTS═══════════════ -->
-
-## Activity at a Glance
-
-<!-- Cards are self-hosted in assets/ and refreshed daily by .github/workflows/github-insights.yml -->
-<div align="center">
-  <a href="https://github.com/ihrimon?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-insights-dark.svg" />
-      <img src="./assets/github-insights-light.svg" alt="GitHub Insights for @ihrimon: contributions, languages and streak" width="100%" />
-    </picture>
-  </a>
-</div>
 
 <!-- ═══════════════CONNECT WITH ME═══════════════ -->
 
